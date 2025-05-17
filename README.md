@@ -23,6 +23,7 @@ If you need detailed explanation about the code, feel free to send an e-mail.
 
 Thank you for your interest.
 
-- Büşra TEMUÇİN
+
+Büşra TEMUÇİN
 
 
