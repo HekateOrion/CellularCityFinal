@@ -14,11 +14,15 @@ This repository is an implementation of [Using Cellular Automata as a Basis for 
 ```
 
 ## Dependencies
-This project was developed on Unity Game Engine around July 2020. Current versions of Unity may give errors. If you'd like to run the project as-is, I'd advise you to use version 2020.1.0f1 (released 20th July 2020).
+This project was developed on Unity Game Engine around July 2020. Current versions of Unity may give errors. If you'd like to run the project as-is, I'd advise you to use version 2020.1.0f1 (released on 20th July 2020).
 The project also includes textures and models from OpenGameArt website. Please refer to the paper to see their source.
 
 
 If you need detailed explanation about the code, feel free to send an e-mail.
 
+
+Thank you for your interest.
+
+- Büşra TEMUÇİN
 
 
